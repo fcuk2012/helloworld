@@ -1,0 +1,2 @@
+Git has a mutable index called stage.
+Git is free softwarfe distributed under the GPL.
